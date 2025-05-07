@@ -2,6 +2,7 @@
 Developed a user-friendly website using HTML, CSS, JavaScript, and PHP, enabling online ticket booking, passenger account management, and admin oversight of routes and drivers.
 
 <div align="center">
+  <h2>Entity Relationship Modelling (ERD) </h2>
   <img src="erd&demo/admin_driver.png">
   <img src="erd&demo/passenger_refund.png">
   <img src="erd&demo/ticket_feedback.png">
